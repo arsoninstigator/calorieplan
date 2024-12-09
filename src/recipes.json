@@ -1,0 +1,59 @@
+[
+  {
+    "name": "Chocolate Cake",
+    "ingredients": [
+      { "name": "Flour", "amount": 200, "unit": "g", "calories": 728, "protein": 13, "carbs": 151, "fat": 2 },
+      { "name": "Sugar", "amount": 150, "unit": "g", "calories": 600, "protein": 0, "carbs": 150, "fat": 0 },
+      { "name": "Cocoa Powder", "amount": 50, "unit": "g", "calories": 196, "protein": 20, "carbs": 14, "fat": 12 },
+      { "name": "Butter", "amount": 100, "unit": "g", "calories": 717, "protein": 1, "carbs": 0, "fat": 81 },
+      { "name": "Milk", "amount": 250, "unit": "ml", "calories": 103, "protein": 8, "carbs": 12, "fat": 3 }
+    ]
+  },
+  {
+    "name": "Red Sauce Pasta",
+    "ingredients": [
+      { "name": "Pasta", "amount": 200, "unit": "g", "calories": 350, "protein": 12, "carbs": 72, "fat": 2 },
+      { "name": "Tomato Sauce", "amount": 150, "unit": "g", "calories": 60, "protein": 2, "carbs": 14, "fat": 0 },
+      { "name": "Olive Oil", "amount": 20, "unit": "ml", "calories": 180, "protein": 0, "carbs": 0, "fat": 20 },
+      { "name": "Onions", "amount": 50, "unit": "g", "calories": 20, "protein": 1, "carbs": 5, "fat": 0 },
+      { "name": "Garlic", "amount": 10, "unit": "g", "calories": 15, "protein": 1, "carbs": 3, "fat": 0 }
+    ]
+  },
+  {
+    "name": "Honey Chilli Potatoes",
+    "ingredients": [
+      { "name": "Potatoes", "amount": 300, "unit": "g", "calories": 258, "protein": 6, "carbs": 59, "fat": 0 },
+      { "name": "Honey", "amount": 50, "unit": "g", "calories": 150, "protein": 0, "carbs": 41, "fat": 0 },
+      { "name": "Corn Flour", "amount": 50, "unit": "g", "calories": 200, "protein": 1, "carbs": 50, "fat": 0 },
+      { "name": "Chilli Sauce", "amount": 30, "unit": "g", "calories": 60, "protein": 1, "carbs": 15, "fat": 0 },
+      { "name": "Oil for Frying", "amount": 20, "unit": "ml", "calories": 180, "protein": 0, "carbs": 0, "fat": 20 }
+    ]
+  },
+  {
+    "name": "Grilled Sandwich",
+    "ingredients": [
+      { "name": "Bread", "amount": 100, "unit": "g", "calories": 265, "protein": 9, "carbs": 49, "fat": 3 },
+      { "name": "Cheese", "amount": 50, "unit": "g", "calories": 200, "protein": 14, "carbs": 1, "fat": 17 },
+      { "name": "Butter", "amount": 10, "unit": "g", "calories": 72, "protein": 0, "carbs": 0, "fat": 8 },
+      { "name": "Vegetables (Tomato, Cucumber, Lettuce)", "amount": 50, "unit": "g", "calories": 15, "protein": 1, "carbs": 3, "fat": 0 }
+    ]
+  },
+  {
+    "name": "Tomato Soup",
+    "ingredients": [
+      { "name": "Tomatoes", "amount": 300, "unit": "g", "calories": 54, "protein": 3, "carbs": 12, "fat": 0 },
+      { "name": "Butter", "amount": 10, "unit": "g", "calories": 72, "protein": 0, "carbs": 0, "fat": 8 },
+      { "name": "Onions", "amount": 50, "unit": "g", "calories": 20, "protein": 1, "carbs": 5, "fat": 0 },
+      { "name": "Cream", "amount": 20, "unit": "ml", "calories": 52, "protein": 1, "carbs": 1, "fat": 5 }
+    ]
+  },
+  {
+    "name": "Omelette",
+    "ingredients": [
+      { "name": "Eggs", "amount": 2, "unit": "pcs", "calories": 140, "protein": 12, "carbs": 1, "fat": 10 },
+      { "name": "Milk", "amount": 30, "unit": "ml", "calories": 12, "protein": 1, "carbs": 1, "fat": 1 },
+      { "name": "Oil", "amount": 10, "unit": "ml", "calories": 90, "protein": 0, "carbs": 0, "fat": 10 },
+      { "name": "Vegetables (Onion, Capsicum, Tomato)", "amount": 50, "unit": "g", "calories": 20, "protein": 1, "carbs": 4, "fat": 0 }
+    ]
+  }
+]
