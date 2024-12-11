@@ -1,8 +1,12 @@
 # calorie-planner
 calorie planner is a react webapp that is perfect for meal planning or cooking health-conscious versions of general delicacies for people on a diet / people with diabetes or high blood pressure or other health conditions or those just counting their macros and monitoring their intake. 
 
-## demo / how it works 
-when you run this, there are certain things that happen: <br>
+## demo
+you can find this live at [calorieplan.vercel.app](https://calorieplan.vercel.app/) or watch [this video demo](demo.mp4)<br><br>
+![alt text](image.png)
+
+## how it works 
+when you run this (either locally or by clicking the link), there are certain things that happen: <br>
 1. it initially allows you to pick a recipe from the list
 2. it also lets you pick the number of servings
 3. it displays the ingredients for dish selected along with sliding bars for quantities of ingredients
